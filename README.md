@@ -1,6 +1,6 @@
 # WEB102 Prework - *SeaFunding*
 
-Submitted by: **SeaFunding**
+Submitted by: **Wendi Onwuakpa**
 
 **SeaFunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -17,20 +17,20 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x]Sort the games in ascending order of amount pledged
-* [x]Search box to search for a game by name with adequate error handling
-* [x]Show the game card of top and runner up games
-* [x]Changed the cursor to be a pointer for buttons
-* [x]UI changes to the buttons to have light blue box shadow
+* [x] Sort the games in ascending order of amount pledged
+* [x] Search box to search for a game by name with adequate error handling
+* [x] Show the game card of top and runner up games
+* [x] Changed the cursor to be a pointer for buttons
+* [x] UI changes to the buttons to have light blue box shadow
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/zbA1sBj.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
