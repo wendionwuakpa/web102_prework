@@ -29,6 +29,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://media1.giphy.com/media/9v8dyUOqkdk6rZjkbR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<p><a href="https://giphy.com/gifs/9v8dyUOqkdk6rZjkbR">Video Walkthrough</a></p>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
 <!-- Recommended tools:
