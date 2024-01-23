@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/gB8ipuR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://imgur.com/a/gB8ipuR.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw2dHZueWpxaXI4N3ZqdXBuenRuaXZxenZmNWhqM3h3Y2xwMTN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1i2LDk1020ghp0Vx9/giphy-downsized-large.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
