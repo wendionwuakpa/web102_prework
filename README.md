@@ -27,10 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/zbA1sBj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://i.imgur.com/zbA1sBj.gifv#embed"' title='Video Walk through' width='' alt='Video Walk through' />
-
+<img src='https://media.giphy.com/media/9v8dyUOqkdk6rZjkbR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
