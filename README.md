@@ -31,6 +31,8 @@ Here's a walkthrough of implemented features:
 
 <iframe src="https://giphy.com/embed/j1i2LDk1020ghp0Vx9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j1i2LDk1020ghp0Vx9">via GIPHY</a></p>
 
+<iframe class="imgur-embed" width="100%" height="540" frameborder="0" src="https://i.imgur.com/zbA1sBj.gifv#embed"></iframe>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
 <!-- Recommended tools:
