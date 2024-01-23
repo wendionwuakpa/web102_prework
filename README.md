@@ -27,9 +27,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/zbA1sBj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/zbA1sBj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <iframe class="imgur-embed" width="100%" height="540" frameborder="0" src="https://i.imgur.com/zbA1sBj.gifv#embed"></iframe>
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxZHVsMDljZDVuZHA0NWI5YXZlcmNtYWx1Z2RleW4yYnMzeXUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v8dyUOqkdk6rZjkbR/giphy-downsized-large.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
