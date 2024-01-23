@@ -39,6 +39,7 @@ GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)
 ## Notes
 
 Describe any challenges encountered while building the app.
+- No major challenge building the app and implementation. Time spent on uploading the GIF in the ReadME per the instructions
 
 ## License
 
