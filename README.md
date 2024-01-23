@@ -29,6 +29,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw2dHZueWpxaXI4N3ZqdXBuenRuaXZxenZmNWhqM3h3Y2xwMTN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1i2LDk1020ghp0Vx9/giphy-downsized-large.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<iframe src="https://giphy.com/embed/j1i2LDk1020ghp0Vx9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j1i2LDk1020ghp0Vx9">via GIPHY</a></p>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime Player, imgur and Flixier (video to GIF converter)  
 <!-- Recommended tools:
