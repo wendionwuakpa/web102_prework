@@ -27,9 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw2dHZueWpxaXI4N3ZqdXBuenRuaXZxenZmNWhqM3h3Y2xwMTN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j1i2LDk1020ghp0Vx9/giphy-downsized-large.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<iframe src="https://giphy.com/embed/j1i2LDk1020ghp0Vx9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j1i2LDk1020ghp0Vx9">via GIPHY</a></p>
+<img src='https://i.imgur.com/zbA1sBj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <iframe class="imgur-embed" width="100%" height="540" frameborder="0" src="https://i.imgur.com/zbA1sBj.gifv#embed"></iframe>
 
