@@ -27,8 +27,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3cWZidDg0bGozMDBwcnhrZzcwaHR5a2ZmMjR6NDVlaDlwdGZmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9v8dyUOqkdk6rZjkbR/giphy-downsized.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![](https://raw.githubusercontent.com/wendionwuakpa/web102_prework/main/walthrough102.gif)
 
 
